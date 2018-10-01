@@ -248,9 +248,7 @@ void cost()
      cin>>cardno;cout<<endl;
      cout<<"Enter your cvv no:"<<endl;
      cin>>cvv;cout<<endl;
-     cout<<"__________________________________"<<endl;
-     cout<<"######## Processing the details ##########"<<endl;
-     cout<<"__________________________________"<<endl;
+     cout<<"__________________________________"<<endl
      cout<<endl;
      cout<<"---------***  Payment Successful ***----------"<<endl;
      cout<<"      *                                       *"<<endl;
